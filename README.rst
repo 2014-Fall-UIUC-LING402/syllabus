@@ -38,7 +38,7 @@ This course is intended to serve:
 .. _`Computational Linguistics` http://www.quora.com/What-is-the-difference-between-natural-language-processing-and-computational-linguistics/answer/Jason-Eisner
 
 .. _`LING 406`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2015/spring/LING/406
-.. _`LING 506`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2015/fall/LING/506
+.. _`LING 506`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2014/fall/LING/506
 .. _`LING 591`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2015/spring/LING/591
 
 Place and time
