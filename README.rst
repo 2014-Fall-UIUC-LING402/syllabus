@@ -32,12 +32,14 @@ Prerequisites
 
 This course is intended to serve:
 
-1. Students who have had no prior computing experience who wish to pursue courses in `Computational Linguistics`__ starting with LING 406 and moving on to LING 506 and LING 591.
+1. Students who have had no prior computing experience who wish to pursue courses in `Computational Linguistics`_ starting with `LING 406`_ and moving on to `LING 506`_ and `LING 591`_.
 2. Students who have no particular interest in the computational track, but who nonetheless have the need to process linguistic data.
 
-__ http://www.quora.com/What-is-the-difference-between-natural-language-processing-and-computational-linguistics/answer/Jason-Eisner
+.. _`Computational Linguistics` http://www.quora.com/What-is-the-difference-between-natural-language-processing-and-computational-linguistics/answer/Jason-Eisner
 
-
+.. _`LING 406`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2015/spring/LING/406
+.. _`LING 506`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2015/spring/LING/506
+.. _`LING 591`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2015/spring/LING/591
 
 Place and time
 ==============
