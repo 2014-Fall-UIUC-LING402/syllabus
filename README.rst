@@ -9,6 +9,13 @@ Tools and Techniques for Speech and Language Processing
 
 Description
 ===========
+
+.. image:: http://imgs.xkcd.com/comics/rtfm.png
+   :height: 434
+   :width: 350
+   :scale: 100
+   :alt: Read the Manual
+
 This course introduces basic computing and programming 
 with a particular view to the kinds of basic skills 
 one needs to deal with data from language and speech 
