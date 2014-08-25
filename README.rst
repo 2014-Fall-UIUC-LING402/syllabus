@@ -6,12 +6,37 @@ Syllabus for LING 402
 Tools and Techniques for Speech and Language Processing
 --------------------------------------------------------
 
-.. image:: http://imgs.xkcd.com/comics/rtfm.png
+.. image:: rtfm.png
    :height: 434
    :width: 350
    :scale: 100
    :alt: Read the Manual
    :target: http://xkcd.com/293
+
+Place and time
+--------------
+
+TTh 12:30 – 1:50 pm
+
+| Illini Hall (`Room 23`_)
+| `721 S Wright Street`_
+
+.. _`Room 23`: https://www.cites.illinois.edu/ics/illini_hall.html
+.. _`721 S Wright Street`: https://www.google.com/maps/place/721+S+Wright+St,+Champaign,+IL+61820
+
+
+Instructor
+----------
+Lane Schwartz
+
+email: lanes@illinois.edu
+
+TA
+--
+Bill Bryce
+
+email: bryce2@illinois.edu
+
 
 Description
 ===========
@@ -25,6 +50,9 @@ in a Unix-like_ operating environment.
 
 It is intended for students who have no prior computing background.
 
+By the end of this class, you should be proficient in at least the following Unix tools:
+
+* ls
 
 
 Prerequisites
@@ -35,22 +63,12 @@ This course is intended to serve:
 1. Students who have had no prior computing experience who wish to pursue courses in `Computational Linguistics`_ starting with `LING 406`_ and moving on to `LING 506`_ and `LING 591`_.
 2. Students who have no particular interest in the computational track, but who nonetheless have the need to process linguistic data.
 
-.. _`Computational Linguistics` http://www.quora.com/What-is-the-difference-between-natural-language-processing-and-computational-linguistics/answer/Jason-Eisner
+.. _`Computational Linguistics`: http://www.quora.com/What-is-the-difference-between-natural-language-processing-and-computational-linguistics/answer/Jason-Eisner
 
 .. _`LING 406`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2015/spring/LING/406
 .. _`LING 506`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2014/fall/LING/506
 .. _`LING 591`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2015/spring/LING/591
 
-Place and time
-==============
-
-TTh 12:30 – 1:50 pm
-
-| Illini Hall (`Room 23`_)
-| `721 S Wright Street`_
-
-.. _`Room 23`: https://www.cites.illinois.edu/ics/illini_hall.html
-.. _`721 S Wright Street`: https://www.google.com/maps/place/721+S+Wright+St,+Champaign,+IL+61820
 
 License
 =======
