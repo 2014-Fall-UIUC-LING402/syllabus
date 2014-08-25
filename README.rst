@@ -6,15 +6,15 @@ Syllabus for LING 402
 Tools and Techniques for Speech and Language Processing
 --------------------------------------------------------
 
-
-Description
-===========
-
 .. image:: http://imgs.xkcd.com/comics/rtfm.png
    :height: 434
    :width: 350
    :scale: 100
    :alt: Read the Manual
+   :target: http://xkcd.com/293
+
+Description
+===========
 
 This course introduces basic computing and programming 
 with a particular view to the kinds of basic skills 
