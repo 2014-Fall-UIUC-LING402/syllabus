@@ -44,9 +44,11 @@ Place and time
 
 TTh 12:30 – 1:50 pm
 
-| Illini Hall (Room 23)
-| 725 S Wright Street
+| Illini Hall (`Room 23`_)
+| `721 S Wright Street`_
 
+.. _`Room 23`: https://www.cites.illinois.edu/ics/illini_hall.html
+.. _`721 S Wright Street`: https://www.google.com/maps/place/721+S+Wright+St,+Champaign,+IL+61820
 
 License
 =======
