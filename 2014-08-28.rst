@@ -1,0 +1,20 @@
+===================================
+LING 402 - Thursday, 28 August 2014
+===================================
+
+--------------------------------------------------------
+Tools and Techniques for Speech and Language Processing
+--------------------------------------------------------
+
+Required Reading
+=================
+
+Read Chapters 1-4 of `The Linux Command Line: A Complete Introduction`_  **before** 12:30 PM on Thursday, 28 August 2014
+
+.. _`The Linux Command Line: A Complete Introduction`: http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/linux/9781593273897
+
+
+Suggested Reading
+=================
+
+Chapters 5, 7, 8, and 11 of `The Linux Command Line: A Complete Introduction`_
