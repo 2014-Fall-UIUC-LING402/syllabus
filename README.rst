@@ -132,8 +132,10 @@ Calendar
 ========
 
 * `Tuesday, 26 August 2014`_
+* `Thursday, 28 August 2014`_
 
 .. _`Tuesday, 26 August 2014`: 2014-08-26.rst
+.. -`Thursday, 28 August 2014`: 2014-08-28.rst
 
 
 License
