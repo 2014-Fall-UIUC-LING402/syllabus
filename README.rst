@@ -122,7 +122,7 @@ Calendar
 
 * `Tuesday, 26 August 2014`_
 
-.. _`Tuesday, 26 August 2014`: 2014-08-26.html
+.. _`Tuesday, 26 August 2014`: 2014-08-26.rst
 
 
 License
