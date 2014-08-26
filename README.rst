@@ -6,17 +6,11 @@ Syllabus for LING 402
 Tools and Techniques for Speech and Language Processing
 --------------------------------------------------------
 
-.. image:: rtfm.png
-   :height: 434
-   :width: 350
-   :scale: 100
-   :alt: Read the Manual
-   :target: http://xkcd.com/293
 
 Place and time
---------------
+==============
 
-TTh 12:30 – 1:50 pm
+Tuesdays and Thursdays, 12:30 PM – 1:50 PM
 
 | Illini Hall (`Room 23`_)
 | `721 S Wright Street`_
@@ -26,16 +20,18 @@ TTh 12:30 – 1:50 pm
 
 
 Instructor
-----------
-Lane Schwartz
+==========
+* `Lane Schwartz <http://dowobeha.github.com>`_
+* Assistant Professor, Department of Linguistics
+* office: `Foreign Languages Building`_, Room 4019
+* email: lanes@illinois.edu
 
-email: lanes@illinois.edu
+.. _`Foreign Languages Building`: https://www.google.com/maps/place/Foreign+Language+Bldg,+University+of+Illinois+at+Urbana-Champaign,+707+S+Mathews+Ave,+Urbana,+IL+61801
 
 TA
---
-Bill Bryce
-
-email: bryce2@illinois.edu
+==
+* Bill Bryce
+* email: bryce2@illinois.edu
 
 
 Description
@@ -50,24 +46,83 @@ in a Unix-like_ operating environment.
 
 It is intended for students who have no prior computing background.
 
-By the end of this class, you should be proficient in at least the following Unix tools:
 
-* ls
+Objectives
+==========
 
+By the end of this class, students should be able to confidently:
 
-Prerequisites
-=============
+* Navigate, manipulate, and search Unix-like_ files and directory structures using bash
+* Understand and use regular expressions to manipulate text
+* Understand and make use of basic version control with git
+* Write shell scripts to manipulate text using standard Unix utilities
+* Write programs in Python
+
+Target Audience
+===============
 
 This course is intended to serve:
 
 1. Students who have had no prior computing experience who wish to pursue courses in `Computational Linguistics`_ starting with `LING 406`_ and moving on to `LING 506`_ and `LING 591`_.
 2. Students who have no particular interest in the computational track, but who nonetheless have the need to process linguistic data.
+3. Students who want to develop proficiency with the Linux command line, shell scripting, and Python
 
 .. _`Computational Linguistics`: http://www.quora.com/What-is-the-difference-between-natural-language-processing-and-computational-linguistics/answer/Jason-Eisner
 
 .. _`LING 406`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2015/spring/LING/406
 .. _`LING 506`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2014/fall/LING/506
 .. _`LING 591`: http://courses.illinois.edu/cisapp/dispatcher/catalog/2015/spring/LING/591
+
+
+Texts
+=====
+
+Required
+--------
+
+* `The Linux Command Line: A Complete Introduction`_ by William E. Shotts, Jr.
+* `Learning Python, 5th edition`_ by Mark Lutz
+
+Supplemental
+------------
+
+* `Introduction to Unix`_ by Frank Fiamingo, Linda DeBula, and Linda Condron
+* `git - the simple guide`_ by Roger Dudler
+* `Learn Version Control with Git: A step-by-step course for the complete beginner`_ by fournova Software GmbH
+
+
+Reference
+---------
+
+* `Bash Reference Manual`_ by Chet Ramey and Brian Fox
+* `GNU Coreutils`_ by David MacKenzie, et al
+* `GNU Readline Library`_ by Chet Ramey
+* `Pro Git`_ by Scott Chacon
+
+.. _`The Linux Command Line: A Complete Introduction`: http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/linux/9781593273897
+.. _`Learning Python, 5th edition`: http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781449355722
+.. _`Pro Git`: http://git-scm.com/book
+.. _`Introduction to Unix`: http://sci.informatik.uni-kl.de/rechnerzugang/unix/unix_book.pdf
+.. _`Bash Reference Manual`: http://www.gnu.org/software/bash/manual/bash.pdf
+.. _`GNU Coreutils`: http://www.gnu.org/software/coreutils/manual/coreutils.pdf
+.. _`git - the simple guide`: http://rogerdudler.github.io/git-guide
+.. _`Learn Version Control with Git: A step-by-step course for the complete beginner`: http://www.git-tower.com/learn/ebook/command-line/introduction
+.. _`GNU Readline Library`: http://tiswww.case.edu/php/chet/readline/readline.html
+
+Emergency Response Recommendations
+==================================
+
+Please read and familiarize yourself with the University's `emergency response recommendations`_.
+
+.. _`emergency response recommendations`: Run_Hide_Fight.pdf
+
+
+Calendar
+========
+
+* `Tuesday, 26 August 2014`_
+
+.. _`Tuesday, 26 August 2014`: 2014-08-26.html
 
 
 License

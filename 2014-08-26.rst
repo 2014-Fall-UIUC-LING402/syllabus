@@ -1,0 +1,54 @@
+==================================
+LING 402 - Tuesday, 26 August 2014
+==================================
+
+--------------------------------------------------------
+Tools and Techniques for Speech and Language Processing
+--------------------------------------------------------
+
+Numbers and letters
+===================
+
+* `Binary <http://en.wikipedia.org/wiki/Binary_number>`_, `octal <http://en.wikipedia.org/wiki/Octal>`_, and `hexidecimal <http://en.wikipedia.org/wiki/Hexadecimal>`_
+* `ASCII <http://en.wikipedia.org/wiki/ASCII>`_
+* `Unicode <http://www.unicode.org/standard/WhatIsUnicode.html>`_
+
+
+Connect to the server
+=====================
+
+* ssh yourNetidGoesHere@ling402.atlas.uiuc.edu
+
+
+How to be fast
+==============
+
+* `Bash Shortcuts for Maximum Productivity <http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/>`_
+
+
+Read the instructions
+======================
+
+* http://xkcd.com/293/
+* man
+
+Hello World
+===========
+
+* cal
+* cd
+* date
+* echo
+* exit
+* ls
+
+
+Version Control
+===============
+
+* Sign up for a `github account <https://github.com/join>`_ using your @illinois.edu address
+* Sign up for a `bitbucket account <https://bitbucket.org/account/signup/>`_ using your @illinois.edu address
+
+
+
+
