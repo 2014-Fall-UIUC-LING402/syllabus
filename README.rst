@@ -117,6 +117,15 @@ Please read and familiarize yourself with the University's `emergency response r
 .. _`emergency response recommendations`: Run_Hide_Fight.pdf
 
 
+Grading
+=======
+
+Your grade in this class will be determined by:
+
+* Your daily participation (5%)
+* Your (roughly weekly) homework assignments (75%)
+* Your final (20%)
+
 Calendar
 ========
 
