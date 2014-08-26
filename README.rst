@@ -116,6 +116,8 @@ Please read and familiarize yourself with the University's `emergency response r
 
 .. _`emergency response recommendations`: Run_Hide_Fight.pdf
 
+Please review the `floor plan for this building <http://police.illinois.edu/emergencyplanning/floorplans/u0065.pdf>`_ and ensure you know where the exits and storm refuge areas are located.
+
 
 Grading
 =======
