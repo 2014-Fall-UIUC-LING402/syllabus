@@ -32,6 +32,8 @@ TA
 ==
 * Bill Bryce
 * email: bryce2@illinois.edu
+* office: 4042 Foreign Languages Bldg
+* Office Hours: 3:30-4:30pm Tues and Thurs
 
 
 Description
