@@ -5,3 +5,8 @@
 *.pdf
 students
 *.tex
+*.nav
+*.snm
+*.toc
+*.vrb
+*~
