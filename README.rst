@@ -23,8 +23,9 @@ Instructor
 ==========
 * `Lane Schwartz <http://dowobeha.github.com>`_
 * Assistant Professor, Department of Linguistics
-* office: `Foreign Languages Building`_, Room 4019
 * email: lanes@illinois.edu
+* office: `Foreign Languages Building`_, Room 4019
+* office hours: 2:00-3:00pm Tue and Thu
 
 .. _`Foreign Languages Building`: https://www.google.com/maps/place/Foreign+Language+Bldg,+University+of+Illinois+at+Urbana-Champaign,+707+S+Mathews+Ave,+Urbana,+IL+61801
 
@@ -33,7 +34,7 @@ TA
 * Bill Bryce
 * email: bryce2@illinois.edu
 * office: 4042 Foreign Languages Bldg
-* Office Hours: 3:30-4:30pm Tues and Thurs
+* office hours: 3:30-4:30pm Tue and Thu
 
 
 Description
