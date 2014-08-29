@@ -1,0 +1,258 @@
+\documentclass{beamer}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+\usepackage{beamerthemesplit}
+\usepackage{tikz}
+\usetikzlibrary{backgrounds,fit,shapes.misc}
+
+\usepackage{enumitem}
+
+% Set up citation style
+\usepackage{natbib}
+\usepackage{bibentry}
+\bibpunct{(}{)}{;}{a}{,}{,}
+\newcommand{\newcite}[1]{\citet{#1}}
+\renewcommand{\cite}[1]{\citep{#1}}
+
+\setbeamercovered{transparent}
+
+
+\title[LING 402]{Tools and Techniques for \\ Speech and Language Processing}
+\author[Thursday, 28 August 2014]{Lane Schwartz}
+\institute[shortinst]{University of Illinois at Urbana-Champaign}
+
+\date{28 Aug 2014}
+
+\begin{document}
+
+% Specify that no bibliography should be printed
+\bibliographystyle{plainnat}
+
+\frame{\titlepage}
+
+
+\section{Chapter 1}
+
+\frame {
+
+What shell are we using in this class?
+
+\begin{enumerate}[label=\Alph*)]
+
+\item bash
+
+\item csh
+
+\item sh
+
+\item tcsh
+
+\item zsh
+
+\end{enumerate}
+
+}
+
+
+\frame {
+
+bash is an acronym for the \emph{Bourne Again Shell}. What does this name refer to?
+
+\begin{enumerate}[label=\Alph*)]
+
+\item Jason Bourne
+
+\item The Anglo-Saxon word for \emph{stream}
+
+\item The town of Bourne, Massachusetts
+
+\item Steve Bourne
+
+\item Christian baptism
+
+\end{enumerate}
+
+}
+
+
+\frame {
+
+In bash, what does the up arrow do?
+
+\begin{enumerate}[label=\Alph*)]
+
+\item Moves the cursor back one character
+
+\item Moves the cursor forward one character
+
+\item Recalls the next command in the command history
+
+\item Recalls the previous command in the command history
+
+\end{enumerate}
+
+}
+
+
+\section{Chapter 2}
+
+\frame {
+
+Which command prints the name of the current working directory?
+
+\begin{enumerate}[label=\Alph*)]
+
+\item awk
+
+\item dir
+
+\item here
+
+\item man
+
+\item pwd
+
+\end{enumerate}
+
+}
+
+
+\begin{frame}[fragile]
+
+What does the following command do?
+
+
+
+\begin{verbatim}
+$ ls /
+\end{verbatim}
+
+\begin{enumerate}[label=\Alph*)]
+
+\item Changes the current working directory to the user's home directory
+
+\item Creates a new directory
+
+\item List the contents of the root directory
+
+\item Prints today's date using / as the separator
+
+\end{enumerate}
+
+\end{frame}
+
+
+\begin{frame}[fragile]
+
+Which of the following is a relative path that refers to the current working directory?
+
+\begin{enumerate}[label=\Alph*)]
+
+\item -
+
+\item /
+
+\item .
+
+\item ..
+
+\item *
+
+\end{enumerate}
+
+\end{frame}
+
+\section{Chapter 3}
+
+\begin{frame}[fragile]
+
+Which of the following commands is commonly used to view the contents of text files?
+
+\begin{enumerate}[label=\Alph*)]
+
+\item file
+
+\item ls
+
+\item less
+
+\item wc
+
+\item wget
+
+\end{enumerate}
+
+\end{frame}
+
+
+\section{Chapter 4}
+
+\begin{frame}[fragile]
+
+Which of the following commands will delete all files with the suffix .html from the current directory, and only those files?
+
+\begin{enumerate}[label=\Alph*)]
+
+\item ls -l *.html
+
+\item file * .html
+
+\item rm * .html
+
+\item rm *.html
+
+\item touch *.html
+
+\end{enumerate}
+
+\end{frame}
+
+\begin{frame}[fragile]
+
+Which of the following commands will create a symbolic link (similar to a Windows shortcut or a Mac alias) called mylib.so?
+
+\begin{enumerate}[label=\Alph*)]
+
+\item cp /usr/lib/mylib.so.5 mylib.so
+
+\item ln /usr/lib/mylib.so.5 mylib.so
+
+\item ln -s /usr/lib/mylib.so.5 mylib.so
+
+\item ls /usr/lib/mylib.so.5 mylib.so
+
+\item mv /usr/lib/mylib.so.5 mylib.so
+
+\end{enumerate}
+
+\end{frame}
+
+
+\begin{frame}[fragile]
+
+After running the following command, where will the copied file be located?
+
+\begin{verbatim}
+$ cp /usr/include/printf.h ..
+\end{verbatim}
+
+\begin{enumerate}[label=\Alph*)]
+
+\item In the current working directory
+
+\item In the parent of the current working directory
+
+\item In the root directory
+
+\item In your home directory
+
+\item In /usr/include
+
+\end{enumerate}
+
+\end{frame}
+
+
+
+\end{document}
