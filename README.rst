@@ -80,6 +80,11 @@ This course is intended to serve:
 Texts
 =====
 
+* `Reading assignments from "The Linux Command Line"`
+
+.. _`Reading assignments from "The Linux Command Line"`: The_Linux_Command_Line.csv
+
+
 Required
 --------
 
@@ -134,13 +139,10 @@ Your grade in this class will be determined by:
 Calendar
 ========
 
-`Reading assignments from "The Linux Command Line"`_
-
 * `Tuesday, 26 August 2014`_
 * `Thursday, 28 August 2014`_
 * `Tuesday, 2 September 2014`_
 
-.. _`Reading assignments from "The Linux Command Line"`: The_Linux_Command_Line.csv
 .. _`Tuesday, 26 August 2014`: 2014-08-26.rst
 .. _`Thursday, 28 August 2014`: 2014-08-28.rst
 .. _`Tuesday, 2 September 2014`: 2014-09-02.rst
