@@ -80,7 +80,7 @@ This course is intended to serve:
 Texts
 =====
 
-* `Reading assignments from "The Linux Command Line"`
+* `Reading assignments from "The Linux Command Line"`_
 
 .. _`Reading assignments from "The Linux Command Line"`: The_Linux_Command_Line.csv
 
