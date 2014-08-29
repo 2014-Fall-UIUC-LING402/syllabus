@@ -139,8 +139,14 @@ Your grade in this class will be determined by:
 Calendar
 ========
 
+Week 1
+
 * `Tuesday, 26 August 2014`_
 * `Thursday, 28 August 2014`_
+
+
+Week 2
+
 * `Tuesday, 2 September 2014`_
 
 .. _`Tuesday, 26 August 2014`: 2014-08-26.rst
