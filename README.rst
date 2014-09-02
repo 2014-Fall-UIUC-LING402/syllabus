@@ -152,7 +152,7 @@ Week 2
 .. _`Tuesday, 26 August 2014`: 2014-08-26.rst
 .. _`Thursday, 28 August 2014`: 2014-08-28.rst
 .. _`Tuesday, 2 September 2014`: 2014-09-02.rst
-
+.. _`Thursday, 4 September 2014`: 2014-09-04.rst
 
 License
 =======
