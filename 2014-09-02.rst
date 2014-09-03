@@ -22,6 +22,15 @@ Suggested Reading
 * Chapters 5, 8, and 11 of `The Linux Command Line: A Complete Introduction`_
 
 
+Quiz
+====
+
+The following `quiz`_ was given in class. Please ensure that you are comfortable answering all of these questions.
+
+.. _`quiz`: https://github.com/2014-Fall-UIUC-LING402/syllabus/blob/master/2014-08-28_quiz.pdf?raw=true
+
+
+
 In Class
 ========
 
