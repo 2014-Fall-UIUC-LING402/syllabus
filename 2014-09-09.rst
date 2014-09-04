@@ -21,3 +21,17 @@ Suggested Reading
 
 * Read Chapter 10, 12, 25, and 26 of `The Linux Command Line: A Complete Introduction`_
 
+Git
+===
+
+Log in to the ling402 server:
+
+* ssh YOUR_NETID@ling402.atlas.uiuc.edu
+
+Follow the instructions for `first time git setup`_.
+
+.. _`first time git setup`: http://git-scm.com/book/en/Getting-Started-First-Time-Git-Setup
+
+Start working on `hw1`_.
+
+.. _`hw1`: https://github.com/2014-Fall-UIUC-LING402/hw1
