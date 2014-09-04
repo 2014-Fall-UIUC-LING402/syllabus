@@ -1,15 +1,15 @@
-Chapter,Name,Starts,Ends,Pages,Priority,Due date,
-1,What is the shell?,3,6,4,1,Thursday, 28 August 2014
-2,Navigation,7,11,5,1,Thursday, 28 August 2014
-3,Exploring the system,13,23,11,1,Thursday, 28 August 2014
-4,Manipulating files and directories,25,38,14,1,Thursday, 28 August 2014
-5,Working with commands,39,47,9,3,Thursday, September 04 2014
-6,Redirection,49,58,10,1,Tuesday, 02 September 2014
-7,Seeing the world as the shell sees it,59,68,10,1,Tuesday, 02 September 2014
-8,Advanced keyboard tricks,69,76,8,2,Thursday, September 04 2014
-9,Permissions,77,93,17,3,Tuesday, September 09 2014
+Chapter,Name,Starts,Ends,Pages,Priority,Due date
+1,What is the shell?,3,6,4,1,"Thursday, 28 August 2014"
+2,Navigation,7,11,5,1,"Thursday, 28 August 2014"
+3,Exploring the system,13,23,11,1,"Thursday, 28 August 2014"
+4,Manipulating files and directories,25,38,14,1,"Thursday, 28 August 2014"
+5,Working with commands,39,47,9,3,"Thursday, September 04 2014"
+6,Redirection,49,58,10,1,"Tuesday, 02 September 2014"
+7,Seeing the world as the shell sees it,59,68,10,1,"Tuesday, 02 September 2014"
+8,Advanced keyboard tricks,69,76,8,2,"Thursday, September 04 2014"
+9,Permissions,77,93,17,3,"Tuesday, September 09 2014"
 10,Processes,95,106,12,3,,
-11,The environment,109,119,11,2,Thursday, September 04 2014
+11,The environment,109,119,11,2,"Thursday, September 04 2014"
 12,A gentle introduction to vi,121,137,17,4,,
 13,Customizing the prompt,139,146,8,4,,
 14,Package management,149,157,9,5,,
@@ -17,12 +17,12 @@ Chapter,Name,Starts,Ends,Pages,Priority,Due date,
 16,Networking,175,186,12,4,,
 17,Searching for files,187,200,14,3,,
 18,Archiving and backup,201,214,14,2,,
-19,Regular expressions,215,232,18,1,Tuesday, 02 September 2014
-20,Text processing,233,266,34,1,Tuesday, 02 September 2014
+19,Regular expressions,215,232,18,1,"Tuesday, 02 September 2014"
+20,Text processing,233,266,34,1,"Tuesday, 02 September 2014"
 21,Formatting output,267,283,17,4,,
 22,Printing,285,296,12,5,,
 23,Compiling programs,297,306,10,5,,
-24,Writing your first script,309,314,6,1,Tuesday, 02 September 2014
+24,Writing your first script,309,314,6,1,"Tuesday, 02 September 2014"
 25,Starting a project,315,323,9,2,,
 26,Top-down design,325,332,8,2,,
 27,Flow control: branching with if,333,346,14,2,,
@@ -31,7 +31,7 @@ Chapter,Name,Starts,Ends,Pages,Priority,Due date,
 30,Troubleshooting,363,373,11,3,,
 31,Flow control: branching with case,375,379,5,4,,
 32,Positional parameters,381,392,12,4,,
-33,Flow control: looping with for,393,398,6,1,Tuesday, 02 September 2014
+33,Flow control: looping with for,393,398,6,1,"Tuesday, 02 September 2014"
 34,Strings and numbers,399,414,16,4,,
 35,Arrays,415,422,8,4,,
 36,Exotica,423,432,10,3,,
