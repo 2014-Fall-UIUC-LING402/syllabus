@@ -22,3 +22,11 @@ Suggested Reading
 
 * Read Chapter 10, 12, 29, 30, and 36 of `The Linux Command Line: A Complete Introduction`_
 
+
+In class - find the most common words in English
+================================================
+
+* find (see Chapter 17)
+* Redirection of standard input, standard output, and standard error streams (see Chapter 6)
+* xargs (see Chapter 17, p 197)
+* /dev/null (see man null)
