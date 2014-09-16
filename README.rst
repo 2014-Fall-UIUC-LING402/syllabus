@@ -154,12 +154,19 @@ Week 2
 Week 3
 
 * `Tuesday, 9 September 2014`_
+* Thursday, 11 September 2014
+
+Week 4
+
+* `Tuesday, 16 September 2014`_
 
 .. _`Tuesday, 26 August 2014`: 2014-08-26.rst
 .. _`Thursday, 28 August 2014`: 2014-08-28.rst
 .. _`Tuesday, 2 September 2014`: 2014-09-02.rst
 .. _`Thursday, 4 September 2014`: 2014-09-04.rst
 .. _`Tuesday, 9 September 2014`: 2014-09-09.rst
+.. _`Tuesday, 16 September 2014`: 2014-09-16.rst
+
 
 License
 =======
