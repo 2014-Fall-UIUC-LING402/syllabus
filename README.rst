@@ -159,6 +159,7 @@ Week 3
 Week 4
 
 * `Tuesday, 16 September 2014`_
+* `Thursday, 18 September 2014`_
 
 .. _`Tuesday, 26 August 2014`: 2014-08-26.rst
 .. _`Thursday, 28 August 2014`: 2014-08-28.rst
@@ -166,6 +167,7 @@ Week 4
 .. _`Thursday, 4 September 2014`: 2014-09-04.rst
 .. _`Tuesday, 9 September 2014`: 2014-09-09.rst
 .. _`Tuesday, 16 September 2014`: 2014-09-16.rst
+.. _`Thursday, 18 September 2014`: 2014-09-18.rst
 
 
 License
