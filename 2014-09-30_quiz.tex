@@ -1,0 +1,242 @@
+\documentclass{beamer}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+\usepackage{beamerthemesplit}
+\usepackage{tikz}
+\usetikzlibrary{backgrounds,fit,shapes.misc}
+
+\usepackage{enumitem}
+
+% Set up citation style
+\usepackage{natbib}
+\usepackage{bibentry}
+\bibpunct{(}{)}{;}{a}{,}{,}
+\newcommand{\newcite}[1]{\citet{#1}}
+\renewcommand{\cite}[1]{\citep{#1}}
+
+\setbeamercovered{transparent}
+
+
+\title[LING 402]{Tools and Techniques for \\ Speech and Language Processing}
+\author[Tuesday, 30 September 2014]{Lane Schwartz}
+\institute[shortinst]{University of Illinois at Urbana-Champaign}
+
+\date{30 Sept 2014}
+
+\begin{document}
+
+% Specify that no bibliography should be printed
+\bibliographystyle{plainnat}
+
+\frame{\titlepage}
+
+
+
+\section{Chapter 2}
+
+\frame {
+
+Which command prints the name of the current working directory?
+
+\begin{enumerate}[label=\Alph*)]
+
+\item awk
+
+\item dir
+
+\item here
+
+\item man
+
+\item pwd
+
+\end{enumerate}
+
+}
+
+
+\begin{frame}[fragile]
+
+What does the following command do?
+
+
+
+\begin{verbatim}
+$ ls /
+\end{verbatim}
+
+\begin{enumerate}[label=\Alph*)]
+
+\item Changes the current working directory to the user's home directory
+
+\item Creates a new directory
+
+\item List the contents of the root directory
+
+\item Prints today's date using / as the separator
+
+\end{enumerate}
+
+\end{frame}
+
+
+\begin{frame}[fragile]
+
+Which of the following is a relative path that refers to the current working directory?
+
+\begin{enumerate}[label=\Alph*)]
+
+\item -
+
+\item /
+
+\item .
+
+\item ..
+
+\item *
+
+\end{enumerate}
+
+\end{frame}
+
+
+\section{Chapter 4}
+
+\begin{frame}[fragile]
+
+Which of the following commands will delete all files with the suffix .html from the current directory, and only those files?
+
+\begin{enumerate}[label=\Alph*)]
+
+\item ls -l *.html
+
+\item file * .html
+
+\item rm * .html
+
+\item rm *.html
+
+\item touch *.html
+
+\end{enumerate}
+
+\end{frame}
+
+
+\begin{frame}[fragile]
+
+After running the following command, where will the copied file be located?
+
+\begin{verbatim}
+$ cp /usr/include/printf.h ..
+\end{verbatim}
+
+\begin{enumerate}[label=\Alph*)]
+
+\item In the current working directory
+
+\item In the parent of the current working directory
+
+\item In the root directory
+
+\item In your home directory
+
+\item In /usr/include
+
+\end{enumerate}
+
+\end{frame}
+
+
+\section{Chapter 6}
+
+\begin{frame}[fragile]
+
+Is there a difference between these two commands?
+
+\begin{verbatim}
+$ ls | head -1
+$ ls > temp; head -1 < temp 
+\end{verbatim}
+
+\begin{enumerate}[label=\Alph*)]
+
+\item No, they do the same thing
+
+\item The output will be the same, but the side effects will be different
+
+\item In some cases the output will be the same, but the side effects will be different. In other cases the output will be different.
+
+\item Yes, they do completely different things
+
+\end{enumerate}
+
+\end{frame}
+
+\section{Chapter 25}
+
+\begin{frame}[fragile]
+
+What will the following script do?
+
+
+\begin{verbatim}
+#!/bin/bash 
+
+year = $1
+
+mkdir $year
+
+\end{verbatim}
+
+
+
+\begin{enumerate}[label=\Alph*)]
+
+\item Create a directory
+
+\item Create a directory, and print a confirmation message
+
+\item Silently fail to create a directory
+
+\item Fail to create a directory, and print a usage message for mkdir
+
+\item I have no idea
+
+\end{enumerate}
+
+\end{frame}
+
+
+\section{Chapter 32}
+
+\begin{frame}[fragile]
+
+Within a shell script, \$0 provides the name of the shell script, as it was called at the command line.
+
+\ \\ 
+
+What do you think the following command will print?
+
+\begin{verbatim}
+$ echo $0
+\end{verbatim}
+
+\begin{enumerate}[label=\Alph*)]
+
+\item A blank line
+
+\item An error message
+
+\item Something else
+
+\item I have no idea
+
+\end{enumerate}
+
+\end{frame}
+
+
+\end{document}

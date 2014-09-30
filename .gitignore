@@ -10,3 +10,4 @@ students
 *.toc
 *.vrb
 *~
+*.synctex.gz
