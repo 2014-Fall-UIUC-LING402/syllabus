@@ -185,7 +185,7 @@ Week 7
 .. _`Thursday, 18 September 2014`: 2014-09-18.rst
 .. _`Tuesday, 23 September 2014`: 2014-09-23.rst
 .. _`Thursday, 25 September 2014`: 2014-09-25.rst
-.. _`Tuesday, 30 September 2014`: 2014-09-30_quiz.pdf
+.. _`Tuesday, 30 September 2014`: https://github.com/2014-Fall-UIUC-LING402/syllabus/raw/master/2014-09-30_quiz.pdf
 .. _`Tuesday, 7 October 2014`: 2014-10-07.rst
 
 License
