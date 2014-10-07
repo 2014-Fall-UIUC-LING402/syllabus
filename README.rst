@@ -166,6 +166,16 @@ Week 5
 * `Tuesday, 23 September 2014`_
 * `Thursday, 25 September 2014`_
 
+Week 6
+
+* `Tuesday 30 September 2014`_
+* Thursday 2 October 2014
+
+Week 7
+
+* `Tuesday, 7 October 2014`_
+* Thursday, 9 October 2014
+
 .. _`Tuesday, 26 August 2014`: 2014-08-26.rst
 .. _`Thursday, 28 August 2014`: 2014-08-28.rst
 .. _`Tuesday, 2 September 2014`: 2014-09-02.rst
@@ -175,6 +185,8 @@ Week 5
 .. _`Thursday, 18 September 2014`: 2014-09-18.rst
 .. _`Tuesday, 23 September 2014`: 2014-09-23.rst
 .. _`Thursday, 25 September 2014`: 2014-09-25.rst
+.. _`Tuesday, 30 September 2014`: 2014-09-30_quiz.pdf
+.. _`Tuesday, 7 October 2014`: 2014-10-07.rst
 
 License
 =======
