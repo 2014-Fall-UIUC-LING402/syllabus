@@ -34,6 +34,7 @@ In Class
 * Implement 2014-10-07.sh
 
 The script should do the following:
+
 * Iterate over data from standard input
 * Count the number of opening parentheses
 * Count the number of closing parentheses

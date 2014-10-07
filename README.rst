@@ -168,8 +168,8 @@ Week 5
 
 Week 6
 
-* `Tuesday 30 September 2014`_
-* Thursday 2 October 2014
+* `Tuesday, 30 September 2014`_
+* Thursday, 2 October 2014
 
 Week 7
 
