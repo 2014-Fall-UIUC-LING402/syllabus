@@ -1,5 +1,5 @@
 ===================================
-LING 402 - Tuesday, 7 October 2014
+LING 402 - Thursday, 9 October 2014
 ===================================
 
 --------------------------------------------------------
@@ -16,13 +16,16 @@ Required Reading
 * Read Chapters 25-27 of `The Linux Command Line: A Complete Introduction`_ **before** 12:30 PM on Thursday, 18 September 2014
 * Read Chapters 28-30 of `The Linux Command Line: A Complete Introduction`_ **before** 12:30 PM on Tuesday, 23 September 2014
 * Read Chapters 31-35 of `The Linux Command Line: A Complete Introduction`_ **before** 12:30 PM on Thursday, 25 September 2014
+* Read Chapter 17 of `The Linux Command Line: A Complete Introduction`_ **before** 12:30 PM on Tuesday, 14 October 2014
+* Read Chapters 1-4 of `The Python Tutorial`_ **before** 12:30 PM on Tuesday, 14 October 2014
 
 .. _`The Linux Command Line: A Complete Introduction`: http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/linux/9781593273897
+.. _`The Python Tutorial`: https://docs.python.org/3/tutorial
 
 Suggested Reading
 ===================
 
-* Read Chapter 10, 12, 17, and 36 of `The Linux Command Line: A Complete Introduction`_
+* Read Chapter 10, 12, and 36 of `The Linux Command Line: A Complete Introduction`_
 
 
 In Class
@@ -31,7 +34,8 @@ In Class
 * mkdir in_class
 * cd in_class
 * ln -s /home/lanes/corpora/treebank-3/parsed/mrg/wsj/00/wsj_0001.mrg
-* Implement 2014-10-07.sh
+* Finish implementing 2014-10-07.sh
+* Implement 2014-10-09.py
 
 The script should do the following:
 

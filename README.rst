@@ -97,7 +97,7 @@ Supplemental
 * `Introduction to Unix`_ by Frank Fiamingo, Linda DeBula, and Linda Condron
 * `git - the simple guide`_ by Roger Dudler
 * `Learn Version Control with Git: A step-by-step course for the complete beginner`_ by fournova Software GmbH
-
+* `The Python Tutorial`_
 
 Reference
 ---------
@@ -116,6 +116,7 @@ Reference
 .. _`git - the simple guide`: http://rogerdudler.github.io/git-guide
 .. _`Learn Version Control with Git: A step-by-step course for the complete beginner`: http://www.git-tower.com/learn/ebook/command-line/introduction
 .. _`GNU Readline Library`: http://tiswww.case.edu/php/chet/readline/readline.html
+.. _`The Python Tutorial`: https://docs.python.org/3/tutorial
 
 Emergency Response Recommendations
 ==================================
@@ -174,7 +175,7 @@ Week 6
 Week 7
 
 * `Tuesday, 7 October 2014`_
-* Thursday, 9 October 2014
+* `Thursday, 9 October 2014`_
 
 .. _`Tuesday, 26 August 2014`: 2014-08-26.rst
 .. _`Thursday, 28 August 2014`: 2014-08-28.rst
@@ -187,6 +188,7 @@ Week 7
 .. _`Thursday, 25 September 2014`: 2014-09-25.rst
 .. _`Tuesday, 30 September 2014`: https://github.com/2014-Fall-UIUC-LING402/syllabus/blob/master/2014-09-30_quiz.pdf?raw=true
 .. _`Tuesday, 7 October 2014`: 2014-10-07.rst
+.. _`Tuesday, 9 October 2014`: 2014-10-09.rst
 
 License
 =======
