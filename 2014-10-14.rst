@@ -1,0 +1,28 @@
+===================================
+LING 402 - Tuesday, 14 October 2014
+===================================
+
+--------------------------------------------------------
+Tools and Techniques for Speech and Language Processing
+--------------------------------------------------------
+
+Required Reading
+=================
+
+* Read Chapter 17 of `The Linux Command Line: A Complete Introduction`_ **before** 12:30 PM on Tuesday, 14 October 2014
+* Read Chapters 1-4 of `The Python Tutorial`_ **before** 12:30 PM on Tuesday, 14 October 2014
+
+.. _`The Linux Command Line: A Complete Introduction`: http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/linux/9781593273897
+.. _`The Python Tutorial`: https://docs.python.org/3/tutorial
+
+Suggested Reading
+===================
+
+* Read Chapter 10, 12, and 36 of `The Linux Command Line: A Complete Introduction`_
+
+
+In Class
+========
+
+Read and describe (line-by-line) the contents of 2014-10-09.py
+

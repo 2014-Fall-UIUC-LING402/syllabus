@@ -94,6 +94,7 @@ Required
 Supplemental
 ------------
 
+* `Python for Kids: A Playful Introduction to Programming`_ by Jason Briggs
 * `Introduction to Unix`_ by Frank Fiamingo, Linda DeBula, and Linda Condron
 * `git - the simple guide`_ by Roger Dudler
 * `Learn Version Control with Git: A step-by-step course for the complete beginner`_ by fournova Software GmbH
@@ -117,6 +118,7 @@ Reference
 .. _`Learn Version Control with Git: A step-by-step course for the complete beginner`: http://www.git-tower.com/learn/ebook/command-line/introduction
 .. _`GNU Readline Library`: http://tiswww.case.edu/php/chet/readline/readline.html
 .. _`The Python Tutorial`: https://docs.python.org/3/tutorial
+.. _`Python for Kids: A Playful Introduction to Programming`: http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781457172397
 
 Emergency Response Recommendations
 ==================================
@@ -177,6 +179,12 @@ Week 7
 * `Tuesday, 7 October 2014`_
 * `Thursday, 9 October 2014`_
 
+Week 8
+
+* `Tuesday, 14 October 2014`_
+* `Thursday, 16 October 2014`_
+
+
 .. _`Tuesday, 26 August 2014`: 2014-08-26.rst
 .. _`Thursday, 28 August 2014`: 2014-08-28.rst
 .. _`Tuesday, 2 September 2014`: 2014-09-02.rst
@@ -189,6 +197,9 @@ Week 7
 .. _`Tuesday, 30 September 2014`: https://github.com/2014-Fall-UIUC-LING402/syllabus/blob/master/2014-09-30_quiz.pdf?raw=true
 .. _`Tuesday, 7 October 2014`: 2014-10-07.rst
 .. _`Thursday, 9 October 2014`: 2014-10-09.rst
+.. _`Tuesday, 14 October 2014`: 2014-10-14.rst
+.. _`Thursday, 16 October 2014`: 2014-10-16.rst
+
 
 License
 =======
