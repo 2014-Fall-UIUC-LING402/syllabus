@@ -95,6 +95,7 @@ Supplemental
 ------------
 
 * `Python for Kids: A Playful Introduction to Programming`_ by Jason Briggs
+* `Non-Programmer's Tutorial for Python 3`_ by Josh Cogliati et al
 * `Introduction to Unix`_ by Frank Fiamingo, Linda DeBula, and Linda Condron
 * `git - the simple guide`_ by Roger Dudler
 * `Learn Version Control with Git: A step-by-step course for the complete beginner`_ by fournova Software GmbH
@@ -119,6 +120,8 @@ Reference
 .. _`GNU Readline Library`: http://tiswww.case.edu/php/chet/readline/readline.html
 .. _`The Python Tutorial`: https://docs.python.org/3/tutorial
 .. _`Python for Kids: A Playful Introduction to Programming`: http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781457172397
+.. _`Non-Programmer's Tutorial for Python 3`: http://en.wikibooks.org/wiki/Non-Programmer's_Tutorial_for_Python_3
+
 
 Emergency Response Recommendations
 ==================================
