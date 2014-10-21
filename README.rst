@@ -187,6 +187,12 @@ Week 8
 * `Tuesday, 14 October 2014`_
 * `Thursday, 16 October 2014`_
 
+Week 9
+
+* `Tuesday, 21 October 2014`_
+* `Thursday, 23 October 2014`_
+
+
 
 .. _`Tuesday, 26 August 2014`: 2014-08-26.rst
 .. _`Thursday, 28 August 2014`: 2014-08-28.rst
@@ -202,7 +208,8 @@ Week 8
 .. _`Thursday, 9 October 2014`: 2014-10-09.rst
 .. _`Tuesday, 14 October 2014`: 2014-10-14.rst
 .. _`Thursday, 16 October 2014`: 2014-10-16.rst
-
+.. _`Tuesday, 21 October 2014`: 2014-10-21.rst
+.. _`Thursday, 23 October 2014`: 2014-10-23.rst
 
 License
 =======
