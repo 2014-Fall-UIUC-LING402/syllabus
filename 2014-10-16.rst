@@ -26,3 +26,7 @@ Suggested Reading
 In Class
 ========
 
+* Implement `2014-10-16.py`_
+
+.. _`2014-10-16.py`: 2014-10-16.rst
+
